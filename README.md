@@ -1,13 +1,13 @@
 ## Teste de automação
 
-####Ferramentas Utilizadas
+#### Ferramentas Utilizadas
 - [Appium](appium.io): Biblioteca de automação mobile
 - [WebdriverIO](webdriver.io): framework de automação de testes
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): linguagem de programação
 - [Mocha](mochajs.org): biblioteca de BDD
 - [Chai](chaijs.com): biblioteca de assertion
 
-###Estrutura do Projeto
+### Estrutura do Projeto
 
 
     |__bugs --> Contém o registro de bugs encontrados durante o processo.
