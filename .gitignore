@@ -1,2 +1,11 @@
-
+*.apk
+report/allure-report/*
+report/allure-results/**/*.xml
+report/allure-results/**/*.png
+report/allure-results/**/*.log
+*.app
+.idea/*
 .DS_Store
+node_modules
+package-lock.json
+local.log
